@@ -3,6 +3,7 @@ General Information about projects hosted within this GitHub organization
 
 Repository name | Forked from | Short Description | Language
 ------------ | ------------- | ------------- | -------------
+[iLooks.club](http://iLooks.club)||iLooks club is a disrupting application for wearables commerce and entertainment. It was conceived by Prophet Daniel and it's rights were donated to the Ethereum Classic community. |
 [smart-contract-tools](https://github.com/ethereumproject/smart-contract-tools/)|[UrsZeidler/smart-contract-tools](https://github.com/UrsZeidler/smart-contract-tools/)|Eclipse plugin tools to support Smart Contract Development.|Java 1 1
 [uml2solidity](https://github.com/ethereumproject/uml2solidity/)|[UrsZeidler/uml2solidity](https://github.com/UrsZeidler/uml2solidity/)|A uml profile and a set of acceleo code generators to model smart contracts in uml and generate solidity code.|Java 0 1
 [etherjar](https://github.com/ethereumproject/etherjar/)||Lightweight Java client to Ethereum blockchain|Io 15 14
